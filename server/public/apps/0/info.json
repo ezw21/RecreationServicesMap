@@ -1,0 +1,30 @@
+{
+  "created": 1634159420702,
+  "description": "",
+  "id": "0",
+  "modified": 1634175125470,
+  "owner": "exw_localmaps",
+  "tags": [
+    "ExB",
+    "experience builder",
+    "exb template",
+    "template",
+    "place explorer"
+  ],
+  "thumbnail": null,
+  "title": "RecreationServiceMap",
+  "type": "Web Experience",
+  "snippet": "",
+  "typeKeywords": [
+    "EXB Experience",
+    "Ready To Use",
+    "JavaScript",
+    "status: Published",
+    "version:1.5.0"
+  ],
+  "portalUrl": "https://local-maps.maps.arcgis.com",
+  "username": "exw_localmaps",
+  "name": "Place Explorer 1",
+  "isLocalApp": true,
+  "url": null
+}
